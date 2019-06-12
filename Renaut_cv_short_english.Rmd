@@ -1,0 +1,163 @@
+---
+output: 
+#  word_document:
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=0.95in
+
+title: "Curriculum Vitae"
+author: Sébastien Renaut
+
+jobtitle: "Research Professional, Université de Montréal"
+address: "Quebec Centre for Biodiversity Science ([QCBS](https://qcbs.ca/)), Montreal, Canada"
+fontawesome: yes
+email: sebastien.renaut@umontreal.ca
+github: seb951  
+phone: 1-514-980-1572
+web: sebastien.renaut.com
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+
+# Employment
+*Research Professional*, Université de Montréal, Montreal	\hfill 2014-current  
+• Provide bioinformatics support to graduate students & faculty  
+• Conduct multi-disciplinary research in genomics, evolution & biodiversity   
+• Lead, teach and organize training workshops      
+• Write reports, scientific publications and grant applications  
+
+
+*Subject Editor*, Molecular Ecology & Molecular Ecology Resources \hfill 2013-current  
+• High throughput sequencing, transcriptomics and speciation genomics  
+• ~150 submissions handled  
+
+  
+***  
+
+# Education
+*Postdoctoral Fellow*, Biodiversity Research Centre, UBC, Vancouver \hfill 2010-2014	
+(supervisor: Dr Loren Rieseberg)
+
+*Doctor of Philosophy*, Biology, Université Laval, Quebec City \hfill 2006-2010  
+(supervisor: Dr Louis Bernatchez)
+
+*Master of Science*, Biology, McGill University, Montreal \hfill 2002-2004	
+(supervisor: Dr Graham Bell)
+
+*Bachelor of Science (Agriculture)*, Environmental Biology, McGill University \hfill 1998-2001	
+
+  
+***  
+
+# Bioinformatics Experience  
+• High throughput sequencing (RNAseq, RAD-seq, amplicon, WGS, metagenomics)  
+
+• Command-line assemblers, aligners and variant callers (e.g. [ABySS 2.0](http://www.bcgsc.ca/platform/bioinfo/software/abyss/releases/2.0.0), [Trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki), [BWA](http://bio-bwa.sourceforge.net/), [Samtools](http://www.htslib.org/))    
+
+• Microbial genomics (e.g. [dada2](https://benjjneb.github.io/dada2/tutorial.html), [Mothur](https://www.mothur.org/), [Qiime](http://qiime.org/))  
+
+• Numerous command line bioinformatics software (e.g. [BLAST+](https://www.ncbi.nlm.nih.gov/books/NBK279690/), [Structure](https://web.stanford.edu/group/pritchardlab/structure.html), [EMBOSS](http://emboss.sourceforge.net/))  
+
+• R programming language (data/text mining, statistical analyses, graphics, markdown)  
+
+• Unix environment (shell scripting, high performance parallel computing, job scheduler)  
+
+• Vector ([Inkscape](https://inkscape.org/en/)) and raster ([Gimp](https://www.gimp.org/downloads/)) graphics editors  
+
+• Python, SQL, html, WordPress (basic skills)   
+  
+***  
+  
+# Teaching Experience 
+*Workshops Teacher and Organizer*, Université de Montréal \hfill 2014-2019   
+• Gene expression, genome assembly, science communication, markdown, metabarcoding  
+• Certified [Software Carpentry](https://software-carpentry.org/) instructor  
+
+*Invited Guest Speaker and Lecturer*, UQAM (Montreal) & Université Laval \hfill 2007-2016   
+• Ecology & Evolution Seminar, Molecular Ecology, Biogeography
+
+*Teaching Assistant*, Université Laval & McGill University  \hfill 2002-2008  
+• Plant Structure and Function, Vertebrate Evolution (U. Laval)  
+• Genetics, Molecular & Cellular Biology, Methods in Biology of Organisms (McGill U.)  
+
+***  
+
+# Ten Representative Publications
+• 42 peer-reviewed publications (19 first-authored publications, 2200+ citations, H-index: 22 [Google Scholar](http://scholar.google.ca/citations?user=rXRB06sAAAAJ&hl=en&oi=ao))  
+
+**Renaut S**, *et al.* The effect of *Ascophyllum nodosum* extracts on tomato and pepper plant productivity and their associated fungal and bacterial communities. *in revision* [[pdf](https://github.com/seb951/Acadian_seaplants/blob/master/manuscript_Rmd/Acadian_seaplants_v5.pdf)]
+
+**Renaut S**, *et al.* 2018. Genome survey of the freshwater mussel *Venustaconcha ellipsiformis* (Bivalvia: Unionida) using a hybrid *de novo* assembly approach. *Genome Biology and Evolution* 10: 1637–1646 [[pdf](https://academic.oup.com/gbe/article-pdf/10/7/1637/25183334/evy117.pdf)]
+
+**Renaut S**, *et al.* 2018. Management, Archiving, and Sharing for Biologists and the Role of Research Institutions in the Technology-Oriented Age. *Bioscience* 68: 400–411 [[pdf](https://academic.oup.com/bioscience/article-pdf/68/6/400/25071780/biy038.pdf)]
+
+**Renaut S**. 2017. Genome sequencing: Illuminating the Sunflower Genome. News and Views for *Nature Plants* 3:17099 [[pdf](https://www.nature.com/articles/nplants201799)]  
+
+**Renaut S**, Rieseberg LH. 2015. The accumulation of deleterious mutations as a consequence of domestication and improvement in sunflowers and other Compositae crops. *Molecular Biology and Evolution* 32: 2273-2283 [[pdf](https://academic.oup.com/mbe/article-pdf/32/9/2273/13166269/msv106.pdf)]  
+
+**Renaut S**, Rieseberg LH, Rowe HC, Ungerer MC. 2014. Genomics of Homoploid Hybrid Speciation: Diversity and Transcriptional Activity of LTR Retrotransposons in Hybrid Sunflowers. *Philosophical Transactions of the Royal Society B* 369: 20130345 [[pdf](http://rstb.royalsocietypublishing.org/content/369/1648/20130345.full.pdf)]  
+
+**Renaut S**, Owens G, Rieseberg LH. 2014. Shared selective pressure and local genomic landscape lead to repeatable patterns of genomic divergence in sunflowers. *Molecular Ecology* 23: 311-324 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.12600)]  
+
+Vines TH, *et al.* (9 co-authors, including **Renaut S**). 2014. The availability of research data declines rapidly with article age. *Current Biology* 24: 94-97 [[pdf](https://ac.els-cdn.com/S0960982213014000/1-s2.0-S0960982213014000-main.pdf?_tid=e8108ab7-717b-4486-81ff-7a9bedb71740&acdnat=1533821473_5f7741423c00dddc18ca767055cfa2f9)]  
+
+**Renaut S**, *et al.* 2013. Genomic islands of divergence are not affected by geography of speciation in sunflowers. *Nature Communications* 4: 1827 [[pdf](https://www.nature.com/articles/ncomms2833.pdf)]  
+
+**Renaut S**, Nolte AW, Bernatchez L. 2010. Mining transcriptome sequences towards identifying adaptive single nucleotide polymorphisms in lake whitefish species pairs (*Coregonus* spp. Salmonidae). *Molecular Ecology* 19: 115-131 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-294X.2009.04477.x)]  
+
+***    
+  
+# Ten Representative Presentations
+• 52 scientific presentations since 2006 (including 27 invited conferences and seminars)  
+
+• Genomes, Data & Biodiversity Science. 2017. *Biology Departmental Seminar*, Université de Montréal 
+
+• Data archiving and reproducibility in ecology and evolution. 2016. *Quebec Centre for Biodiversity Science annual symposium*, Montreal, Canada  
+
+• Transcriptome evolution in young species of sunflowers. 2015. *Biology Departmental Seminar*, Université Laval
+
+• The accumulation of deleterious mutations as a consequence of domestication and improvement in sunflowers. 2015. *Plant and Animal Genome XXIII*, San Diego, USA  
+
+• Parallel genomic evolution but not parallel speciation in annual sunflowers. 2013. *Evolution*, Snowbird, USA   
+
+• Genomics of adaptive divergence and speciation in sunflowers. 2013. *Advances in Ecological Speciation*, Porto, Portugal  
+  
+• The extent of genomic divergence among sunflower species with respect to their degree of geographic separation. 2012. *Joint meeting of Evolution societies*, Ottawa, Canada  
+
+• Genomics of adaptive divergence and speciation: from fish to plants. Biology Departmental Seminar. 2012. *Katholieke Universiteit Leuven*, Leuven, Belgium    
+
+• The genomics of speciation in lake whitefish species pairs. 2010. *Society of Molecular Biology and Evolution*, Lyon, France    
+
+• Transcriptome Sequencing in Lake Whitefish: Single Nucleotide Polymorphisms, Adaptive divergence and hybridization. 2009. *Canadian Society for Ecology and Evolution*, Halifax, Canada  
+
+***  
+
+# Outreach
+*Reviewer* \hfill 2008-current	  
+• Journals (60+ reviews in 35+ journals, including *Nature Plants*, *PNAS*,  
+*Molecular Biology and Evolution*, *Genetics*, *Genome Research*, see [Publons](https://publons.com/author/341735/sebastien-renaut#profile) profile)  
+• Grant proposals (20+ reviews for granting agencies in Canada, Europe and USA)    
+		
+*Scientific panel organizer* QCBS Annual Meeting, Montreal\hfill 2014-2016  
+• Data Sharing, Biodiversity and health related issues, Environmental DNA,  
+Next generation uses of biodiversity data
+
+*Member* of QCBS, Canadian Society for Ecology and Evolution, \hfill 2004-2019  
+Society for the Study of Evolution, European Society for Evolutionary Biology  
+
+*Science judge* (Greater Vancouver Regional Science Fair) \hfill 2013 & 2014  
+
+*Website developer* and *manager* (http://rieseberglab.botany.ubc.ca/) \hfill 2012-2015  
+
+*Student representative*, Institut de Biologie Intégrative et des Systèmes, Université Laval \hfill 2010  
+
+
+
+***  

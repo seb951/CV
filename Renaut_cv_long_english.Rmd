@@ -1,0 +1,258 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=0.95in
+
+title: "Curriculum Vitae"
+author: Sébastien Renaut
+
+jobtitle: "Research Professional, Université de Montréal"
+address: "Quebec Centre for Biodiversity Science ([QCBS](https://qcbs.ca/)), Montreal, Canada"
+fontawesome: yes
+email: sebastien.renaut@umontreal.ca
+phone: 1-514-980-1572
+web: sebastien.renaut.com
+#updated: no
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 12pt
+linkcolor: blue
+urlcolor: blue
+---
+
+
+# Employment
+*Research Professional*, Université de Montréal, Montreal	\hfill 2014-current  
+• Provide bioinformatics support and supervise graduate students     
+• Conduct multi-disciplinary research (microbial ecology, genomics, biodiversity)      
+• Lead, teach and organize training workshops     
+• Draft scientific papers, reports and grant applications      
+					
+***  
+
+# Education
+*Postdoctoral fellow*, Biodiversity Research Centre, UBC, Vancouver \hfill 2010-2014	
+(supervisor: Dr Loren Rieseberg)
+
+*Doctorate of Philosophy*, Biology, Université Laval, Quebec City \hfill 2006-2010  
+(supervisor: Dr Louis Bernatchez)
+
+*Master of Science*, Biology, McGill University, Montreal \hfill 2002-2004	
+(supervisor: Dr Graham Bell)
+
+*Bachelor of Science (Agriculture)*, Environmental Biology, McGill University \hfill 1998-2001	
+  
+***  
+
+# Teaching Experience 
+*Workshops Teacher and Organizer*, Université de Montréal \hfill 2014-2019   
+• gene expression in R (1 x 2 hr lecture)  
+• science communication (1 x 3 hr lecture)  
+• R markdown (3 X 4 hr lecture)  
+• genome assembly (1 X 1 hr lecture)    
+• metabarcoding (3 days, organizing committee)   
+• Certified [Software Carpentry](https://software-carpentry.org) instructor 
+   
+*Invited Guest Speaker and Lecturer*, UQAM (Montreal) & Université Laval \hfill 2007-2016   
+• Ecology & Evolution Seminar (1 hr), Molecular Ecology (2 X 2hr lecture),   
+Biogeography (1hr lecture)
+
+*Teaching Assistant*, Université Laval & McGill University  \hfill 2002-2008  
+• Plant Structure and Function, Vertebrate Evolution (U. Laval)  
+• Genetics, Molecular & Cellular Biology, Methods in Biology of Organisms (McGill U.)  
+
+***  
+
+# Awards, Fellowships  
+*Postdoctoral Fellowship*, NSERC (80,000$)\hfill 2012-2013  
+
+*Postdoctoral Fellowship*, FRQNT (60,000$, declined)\hfill 2011-2012  
+
+*Post Graduate Scholarship*, NSERC (42,000$)\hfill 2008-2009  
+
+*Post Graduate Scholarship*, FRQNT (42,000$, declined)	\hfill 2008-2009  
+ 
+*Richard Bernard Excellence PhD Scholarship*, Université Laval (3,000$)\hfill 2010  
+
+*Travel Scholarship (conference)*, Québec-Océan (2,000$)\hfill 2009 & 2010  
+
+*Tuition Waiver (Institute of Statistical Genetics)*, University of Washington (1,500$)\hfill 2009  
+
+*Travel Scholarship (workshop)*, Québec-Océan (1,000$)	\hfill 2009  
+
+*Post Graduate Scholarship*, Fondation Bourgie (5,000$)\hfill 2007  
+
+*PhD Support Fund*, Université Laval (3,000$)\hfill 2006  
+
+*Graduate Student & Alma Mater Student Travel Fund*, McGill University (1,300$)\hfill 2002 	  
+
+***  
+
+# Supervision and Mentorship
+*Charlotte Capt* (UdeM, PhD candidate, see reference *^36,40^* in CV) \hfill 2015-2018  
+
+*Alice Fornasiero* (Università di Udine [Italy], PhD candidate, external thesis examiner) \hfill 2017  
+
+*Hermine Alexandre* (UdeM, PhD candidate, internal thesis examiner)\hfill 2016  
+
+*Jacynthe Masse* (UBC, PhD candidate, see *^33^*)\hfill 2015-2016  
+
+*Christopher Grassa* (UBC, MSc candidate / research staff, see *^15,18^*)\hfill 2011-2013  
+
+*Anne-Marie Dion Côté* (U Laval, PhD candidate, see  *^24,30^*)\hfill 2012-2013  
+
+*Jobran Chebib* (University of Calgary, MSc candidate, see *^29^*) \hfill 2013  
+
+*Francois Olivier Hebert* (U Laval, MSc candidate, see *^20^*)\hfill 2010-2012  
+
+*Sreepriya Pramod* (Mississippi State University, PhD candidate).\hfill 2011  
+
+*Nicolas Maillet* (U Laval, MSc candidate, see *^13^*)\hfill 2010  
+
+***  
+
+# Peer Reviewed Publications
+• 17 first-authored publications, 2000+ citations, H-index: 23 (Nov. 2018, [Google Scholar](http://scholar.google.ca/citations?user=rXRB06sAAAAJ&hl=en&oi=ao))  
+
+*42.***Renaut S**, Masse J, Lachance G, Vialle A, Hijri M. Inoculation with *Rhizoglomus irregulare* does not impact AMF community structure in corn, wheat and soybean crops. *submitted*
+
+*41.***Renaut S**, Masse J, *et al.* The effect of *Ascophyllum nodosum* extracts on plant productivity and their associated fungal and bacterial communities. *submitted*
+
+
+*40.*Capt C, **Renaut S**, Johnson N, Breton S. Mitochondria Inheritance and Sex Determination. *submitted*
+ 
+*39.*Larroque J, Legault S, Johns R, Lumley L, Cusson M, **Renaut S**, James PMA. Temporal variation in spatial genetic structure during population outbreaks: distinguishing among different potential drivers of spatial synchrony. *submitted*
+
+*38.***Renaut S**, *et al.* 2018. Genome survey of the freshwater mussel *Venustaconcha ellipsiformis* (Bivalvia: Unionida) using a hybrid *de novo* assembly approach. *Genome Biology and Evolution* 10: 1637–1646 [[pdf](https://academic.oup.com/gbe/article-pdf/10/7/1637/25183334/evy117.pdf)]
+
+*37.***Renaut S**, *et al.* 2018. Management, Archiving, and Sharing for Biologists and the Role of Research Institutions in the Technology-Oriented Age. *Bioscience* 68: 400–411 [[pdf](https://academic.oup.com/bioscience/article-pdf/68/6/400/25071780/biy038.pdf)]
+
+*36.*Capt C, **Renaut S**,  *et al.*. 2018. Deciphering the link between doubly uniparental inheritance of mtDNA and sex determination in bivalves: clues from comparative transcriptomics. *Genome Biology and Evolution* 10: 577–590 [[pdf](https://academic.oup.com/gbe/article-pdf/10/2/577/23796746/evy019.pdf)]
+
+*35.*Tennant JP, *et al.* (32 co-authors including **Renaut S**). 2017. A multi-disciplinary perspective on emergent and future innovations in peer review. *F1000 Research* 6:1151 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5686505.2/pdf/f1000research-6-14133.pdf)]   
+
+*34.***Renaut S**. 2017. Genome sequencing: Illuminating the Sunflower Genome. News and Views for *Nature Plants* 3:17099 [[pdf](https://www.nature.com/articles/nplants201799)]  
+
+*33.*Masse J, Prescott CE, **Renaut S**, Terrat Y, Grayston SJ. 2017. Plant community and nitrogen deposition as drivers of $a$- and $B$ prokaryotic diversity in reconstructed oil-sands soils and natural boreal forest soils. *Applied and Environmental Microbiology* 83: e03319-16 [[pdf](http://aem.asm.org/content/83/9/e03319-16.full.pdf+html)]  
+
+*32.*Bailie A, **Renaut S**, *et al.* 2016. Phytogeographic and genetic variation in *Sorbus*, a traditional antidiabetic medicine – adaptation in action in both a plant and a discipline. *PeerJ* 4: e2645 [[pdf](https://peerj.com/articles/2645/)]  
+
+*31.*De Vriendt L, *et al.* (7 co-authors, including **Renaut S**). 2016. Population isolation shapes plant genetics, phenotype and germination in naturally patchy ecosystems. *Journal of Plant Ecology* 10: 649-659 [[pdf](https://academic.oup.com/jpe/article-pdf/10/4/649/19288007/rtw071.pdf)]   
+
+*30.***Renaut S**, Dion-Côté AM. 2016. History repeats itself: genomic divergence in copepods. Perspective for *Molecular Ecology* 25: 1417-1419 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.13577)]  
+
+*29.*Chebib J, **Renaut S**, Bernatchez L, Rogers SM. 2016. Genetic structure and within-generation genome scan analysis of fisheries-induced evolution in a lake whitefish (*Coregonus clupeaformis*) population. *Conservation Genetics* 17: 473-483 [[pdf](https://link.springer.com/content/pdf/10.1007%2Fs10592-015-0797-y.pdf)]  
+
+*28.*Andrew RL, Albert AYK, **Renaut S**, Rennison DJ, Bock DG, Vines TH. 2015. Assessing the reproducibility of discriminant function analyses. *PeerJ* 3: e1137 [[pdf](https://peerj.com/articles/1137/)]  
+
+*27.***Renaut S**, Rieseberg LH. 2015. The accumulation of deleterious mutations as a consequence of domestication and improvement in sunflowers and other Compositae crops. *Molecular Biology and Evolution* 32: 2273-2283 [[pdf](https://academic.oup.com/mbe/article-pdf/32/9/2273/13166269/msv106.pdf)]  
+
+*26.*Barb JG, *et al.* (6 co-authors, including **Renaut S**). 2014. Chromosomal evolution and patterns of introgression in *Helianthus*. *Genetics* 197: 969–979 [[pdf](http://www.genetics.org/content/early/2014/04/24/genetics.114.165548.full.pdf)]  
+
+*25.***Renaut S**, Rieseberg LH, Rowe HC, Ungerer MC. 2014. Genomics of Homoploid Hybrid Speciation: Diversity and Transcriptional Activity of LTR Retrotransposons in Hybrid Sunflowers. *Philosophical Transactions of the Royal Society B* 369: 20130345 [[pdf](http://rstb.royalsocietypublishing.org/content/369/1648/20130345.full.pdf)]  
+
+*24.*Dion-Côté AM, **Renaut S**, Normandeau E, Bernatchez L. 2014. RNA-seq reveals transcriptomic shock involving transposable elements reactivation in hybrids of young lake whitefish species. *Molecular Biology and Evolution* 31: 1188-1199 [[pdf](https://academic.oup.com/mbe/article-pdf/31/5/1188/13170939/msu069.pdf)]  
+
+*23.*Faria R, **Renaut S**, *et al.* 2014. Meeting Review: Advances in Ecological Speciation: an integrative approach. *Molecular Ecology* 23: 513-521 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.12616)]  
+
+*22.***Renaut S**, Owens G, Rieseberg LH. 2014. Shared selective pressure and local genomic landscape lead to repeatable patterns of genomic divergence in sunflowers. *Molecular Ecology* 23: 311-324 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.12600)]  
+
+*21.*Vines TH, *et al.* (9 co-authors, including **Renaut S**). 2014. The availability of research data declines rapidly with article age. *Current Biology* 24: 94-97 [[pdf](https://ac.els-cdn.com/S0960982213014000/1-s2.0-S0960982213014000-main.pdf?_tid=e8108ab7-717b-4486-81ff-7a9bedb71740&acdnat=1533821473_5f7741423c00dddc18ca767055cfa2f9)]  
+
+*20.*Hebert FO, **Renaut S**, Bernatchez L. 2013. Targeted sequence capture and resequencing implies a predominant role of regulatory regions in the divergence of a sympatric lake whitefish species pair (*Coregonus clupeaformis*). *Molecular Ecology* 22: 4896-4914 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.12447)]  
+
+*19.*Genome Resources Development Consortium, King MG, **Renaut S**, Rieseberg LH, Rowe HC. 2013. Genomic Resources Notes accepted 1 February 2013 – 31 March 2013. *Molecular Ecology Resources* 13: 759 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1111/1755-0998.12123)]  
+
+*18.***Renaut S**, *et al.* 2013. Genomic islands of divergence are not affected by geography of speciation in sunflowers. *Nature Communications* 4: 1827 [[pdf](https://www.nature.com/articles/ncomms2833.pdf)]  
+
+*17.***Renaut S**. 2013. A new approach to quantify the adaptive potential of gene expression variation in gymnosperms. Perspective for *Molecular Ecology* 22: 2361-2363 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.12303)]  
+
+*16.*Vines TH, *et al.* (12 co-authors, including **Renaut S**) 2013. Mandated data archiving greatly improves access to research data. *FASEB Journal* 27: 1304-1308 [[pdf](https://www.fasebj.org/doi/pdf/10.1096/fj.12-218164)]  
+
+*15.***Renaut S**, *et al.* 2012. The population genomics of sunflowers and genomic determinants of protein evolution revealed by RNAseq. *Biology* 1: 575-596 [[pdf](http://www.mdpi.com/2079-7737/1/3/575/pdf)]  
+
+*14.*Gilbert KJ, *et al.* (10 co-authors, incluant **Renaut S**) 2012. Recommendations for utilizing and reporting population genetic analyses: the reproducibility of genetic clustering using the program STRUCTURE. *Molecular Ecology* 21: 4925-2930 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-294X.2012.05754.x)]  
+
+*13.***Renaut S**, *et al.* 2012. Genome-wide patterns of divergence during speciation: the lake whitefish case study. *Philosophical Transactions of the Royal Society B* 367: 354-363 [[pdf](http://rstb.royalsocietypublishing.org/content/367/1587/354.full.pdf)]  
+
+*12.*Rowe HC, **Renaut S**, Guggisberg A. 2011. Meeting Review: RAD in the realm of next-generation sequencing technologies. *Molecular Ecology* 20: 3499-3502 [[PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-294X.2011.05197.x)]   
+
+*11.***Renaut S**. 2011. Contemporary hybrid speciation in sculpins (*Cottus* spp.). Perspective for *Molecular Ecology* 20: 1320-1321 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-294X.2010.04998.x)]  
+
+*10.***Renaut S**, Nolte AW (co-first author), Rogers SM, Derome N, Bernatchez L. 2011. SNP signatures of selection on standing genetic variation and their association with adaptive phenotypes along gradients of ecological speciation in lake whitefish species pairs (*Coregonus* spp.). *Molecular Ecology* 20: 545-559 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-294X.2010.04952.x)]  
+
+*9.***Renaut S**, Bernatchez L. 2011. Transcriptome-wide signature of hybrid breakdown associated with intrinsic reproductive isolation in lake whitefish species pairs (*Coregonus* spp. Salmonidae). *Heredity* 106: 1003-1011 [[pdf](https://www.nature.com/articles/hdy2010149.pdf)]  
+
+*8.*Jeukens J, **Renaut S**, St-Cyr J, Nolte AW, Bernatchez L. 2010. The transcriptomics of sympatric dwarf and normal lake whitefish (*Coregonus clupeaformis* spp., Salmonidae) divergence as revealed by next-generation sequencing. *Molecular Ecology* 19: 5389-5403 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-294X.2010.04934.x)]  
+
+*7.*Bernatchez L, **Renaut S**, *et al.* 2010. On the origins of species: Insights from the ecological genomics of whitefish. *Philosophical Transactions of the Royal Society B* 365: 1783-1800 [[pdf](http://rstb.royalsocietypublishing.org/content/365/1547/1783.full.pdf)]  
+
+*6.***Renaut S**, Nolte AW, Bernatchez L. 2010. Mining transcriptome sequences towards identifying adaptive single nucleotide polymorphisms in lake whitefish species pairs (*Coregonus* spp. Salmonidae). *Molecular Ecology* 19: 115-131 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-294X.2009.04477.x)]  
+
+*5.***Renaut S**, Nolte AW, Bernatchez L. 2009. Gene expression divergence and hybrid misexpression between lake whitefish species pairs (*Coregonus* spp. Salmonidae). *Molecular Biology and Evolution* 26: 925-936 [[pdf](https://academic.oup.com/mbe/article-pdf/26/4/925/13642372/msp017.pdf)]  
+
+*4.*Nolte AW, **Renaut S**, Bernatchez L. 2009. Divergence in gene regulation at young life history stages of whitefish (*Coregonus* sp.) and the emergence of genomic isolation. *BMC Evolutionary Biology* 9: 59 [[pdf](https://bmcevolbiol.biomedcentral.com/track/pdf/10.1186/1471-2148-9-59)]  
+
+*3.*Whiteley AR, *et al.* (9 co-authors, incluant **Renaut S**). 2008. The Phenomics and Expression Quantitative Trait Locus Mapping of Brain Transcriptomes Regulating Adaptive Divergence in Lake Whitefish Species Pairs (*Coregonus* sp.). *Genetics* 180: 147-164[[pdf](http://www.genetics.org/content/genetics/180/1/147.full.pdf)]  
+
+*2.*Lauzer D, **Renaut S**, St-Arnaud M, Barabé D. 2007. In vitro asymbiotic germination, protocorm development and plantlet acclimatization of *Aplectrum hyemale* (Orchidaceae). *Journal of the Torrey Botanical Society* 134: 344-348 [[pdf](http://www.bioone.org/doi/pdf/10.3159/1095-5674%282007%29134%5B344%3AIVAGPD%5D2.0.CO%3B2)]    
+
+*1.***Renaut S**, Replansky T, Heppleston A, Bell G. 2006. The Ecology and Genetics of Fitness in *Chlamydomonas*. XIII. Fitness of Long-Term Sexual and Asexual Populations in Benign Environments. *Evolution* 60: 2272-2279 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.0014-3820.2006.tb01864.x)]  
+  
+***    
+  
+# Ten Representative Presentations
+• 52 scientific presentations since 2006 (including 27 invited conferences and departmental seminars)  
+
+• Genomes, Data & Biodiversity Science in Quebec. 2017. *Biology Departmental Seminar*, Université de Montréal 
+
+• Data archiving and reproducibility in ecology and evolution. 2016. *Quebec Centre for Biodiversity Science annual symposium*, Montreal, Canada  
+
+• Transcriptome evolution in young species of sunflowers. 2015. *Biology Departmental Seminar*, Université Laval
+
+• The accumulation of deleterious mutations as a consequence of domestication and improvement in sunflowers. 2015. *Plant and Animal Genome XXIII*, San Diego, USA  
+
+• Parallel genomic evolution but not parallel speciation in annual sunflowers. 2013. *Evolution*, Snowbird, USA   
+
+• Genomics of adaptive divergence and speciation in sunflowers. 2013. *Advances in Ecological Speciation*, Porto, Portugal  
+  
+• The extent of genomic divergence among sunflower species with respect to their degree of geographic separation. 2012. *Joint meeting of Evolution societies*, Ottawa, Canada  
+
+• Genomics of adaptive divergence and speciation: from fish to plants. Biology Departmental Seminar. 2012. *Katholieke Universiteit Leuven*, Leuven, Belgium    
+
+• The genomics of speciation in lake whitefish species pairs. 2010. *Society of Molecular Biology and Evolution*, Lyon, France    
+
+• Transcriptome sequencing in Lake Whitefish: single nucleotide polymorphisms, adaptive divergence and hybridization. 2009. *Canadian Society for Ecology and Evolution*, Halifax, Canada   
+
+***  
+
+# Outreach
+*Subject Editor*, Molecular Ecology & Molecular Ecology Resources \hfill 2013-current  
+• High throughput sequencing, transcriptomics and speciation genomics  
+• over 140 submissions handled    
+
+*Reviewer* \hfill 2008-current	  
+• Journals (80+ reviews in 35+ journals, including *Nature Plants*, *PNAS*,  
+*Molecular Biology and Evolution*, *Genetics*, *Genome Research*, see [Publons](https://publons.com/author/341735/sebastien-renaut#profile) profile)  
+• Grant proposals (20+ reviews for granting agencies in Canada, European Union and USA)    
+		
+*Scientific Panel organizer*, QCBS Annual Meeting, Montreal\hfill 2014-2016  
+• Data Sharing, Biodiversity and health related issues, Environmental DNA,  
+Next generation uses of biodiversity
+
+*Member* of QCBS, Canadian Society for Ecology and Evolution, \hfill 2004-2018  
+Society for the Study of Evolution, European Society for Evolutionary Biology  
+
+*Science Judge* (Greater Vancouver Regional Science Fair) \hfill 2013 & 2014  
+
+*Website developer* and *manager* (http://rieseberglab.botany.ubc.ca/) \hfill 2012-2015  
+
+*Student representative*, Institut de Biologie Intégrative et des Systèmes, Université Laval \hfill 2010 
+
+*Running clinic leader and pace setter* (The Running Room Ltd. / 21 & 42km) \hfill 2013-current  
+
+***  
